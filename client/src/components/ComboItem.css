@@ -1,0 +1,15 @@
+.oneCombo{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: flex-start;
+}
+
+.combo-name-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+p{
+    text-shadow: 0 0 1px black
+}
