@@ -1,24 +1,11 @@
-# README
+# Local Setup
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is not yet deployed but is available for local use as I continue to add more games, characters, etc
 
-Things you may want to cover:
+Uses Rails/NPM for backend and frontend
 
-* Ruby version
+Navigate to `client` directory, run `npm install` to install dependencies, then run `npm start`
 
-* System dependencies
+Navigate back to root and run `rails s`
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Enjoy!
